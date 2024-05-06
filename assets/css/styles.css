@@ -1,0 +1,146 @@
+.roboto-thin {
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+  }
+  
+  .roboto-light {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  .roboto-regular {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .roboto-medium {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+  .roboto-bold {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .roboto-black {
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+  }
+  
+  .roboto-thin-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: italic;
+  }
+  
+  .roboto-light-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: italic;
+  }
+  
+  .roboto-regular-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+  .roboto-medium-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: italic;
+  }
+  
+  .roboto-bold-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+  }
+  
+  .roboto-black-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-style: italic;
+  }
+
+
+.div-header{
+    background-color: #28A745;
+    padding-top: 7px;
+    padding-bottom: 7px;
+
+}
+
+.logo-white{
+    height: 25pt;
+    width: 86pt;
+}
+
+.precio1{
+    text-decoration: none;
+    color: #707070;
+    font-size: 16pt;
+}
+
+.precio2{
+    text-decoration: none;
+    color: #28A745;
+    font-size: 20pt;
+    font-weight: 500;
+}
+
+h5.card-title{
+    font-size: 20pt;
+    margin-bottom: 0;
+}
+
+
+div.ultima-carta{
+    margin-bottom: 470pt;
+}
+
+li.nombre{
+    color: #707070;
+    font-size: 16pt;
+}
+
+li.direccion{
+    color: #707070;
+    font-size: 13pt;
+}
+
+
+
+.section-formulario{
+    height: 241px;
+    padding-top: 30px;
+    background-color: #28A745;
+    border-radius: 10px;
+}
+
+.btnEnviar{
+    width: 113px;
+    font-weight: 500;
+}
+
+footer{
+    padding-bottom: 20px;
+}
+
+.logo-black{
+    height: 24pt;
+    width: 82pt;
+    margin-bottom: 10pt;
+    margin-top: 24pt;
+}
+
+.parrafo-footer{
+    padding-bottom: 22pt;
+}
